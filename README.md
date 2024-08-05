@@ -1,4 +1,4 @@
 ﻿# ShunsukeKikuchi
  
 <!-- HTML -->
-| ![](./images/plates/Competitions/white.svg) | ![](./images/plates/Datasets/white.svg) | ![](./images/plates/Notebooks/white.svg) | ![](./images/plates/Discussions/white.svg) |
+| ![](./kaggle-plates/Competitions/black.svg) | ![](./kaggle-plates/Datasets/black.svg) | ![](./kaggle-plates/Notebooks/black.svg) | ![](./kaggle-plates/Discussions/black.svg) |
