@@ -6,7 +6,8 @@ Besides the lab project, I enjoy participating in **Kaggle** competitions! I mak
 <br>
 <br>
 **Interests** : Bioinformatics🧬, Computational Medicine📊, Network Science🌐<br>
-**Hobby** : Running🏃, Manga/Anime📚 (favorite: Girls' Last Tour)<br>
+**Hobby** : Running🏃, Manga/Anime📚 (fav: Girls' Last Tour)<br>
+**Food** : Ramen🍜, Eel🐟, Taco🌮
 **Cats** : 2 Pets🐈<br>
 
  ### Kaggle status
