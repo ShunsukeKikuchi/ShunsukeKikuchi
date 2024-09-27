@@ -9,7 +9,16 @@ Besides the lab project, I'm enjoying Kaggle competitions! I'm setting my rule t
 | ![](./kaggle-plates/Competitions/black.svg) | ![](./kaggle-plates/Datasets/black.svg) | ![](./kaggle-plates/Notebooks/black.svg) | ![](./kaggle-plates/Discussions/black.svg) |
 
 ### Current Projects
-- Lab project: 
+#### Lab project: 
+- scGRNdb: https://github.com/XiaYangLabOrg/scNetworkAtlas.git
+#### AI competitions
+- CMI24: https://www.kaggle.com/competitions/child-mind-institute-problematic-internet-use
+- JSCAS: https://github.com/modafone/jscasaichallenge2024
 
-### Past Projects
+### Past Projects (24')
+#### Lab project
+- SCING: https://github.com/XiaYangLabOrg/SCING
+#### AI comeptitions
+- MICCAI Endovis Challenge
+   - SegCol
 
