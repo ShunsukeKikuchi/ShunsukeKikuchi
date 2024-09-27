@@ -30,5 +30,5 @@ Besides the lab project, I enjoy participating in **Kaggle** competitions! I mak
     - [OSS](https://github.com/JmeesInc/OpenSuturingSkillsChallenge.git): Evaluation model for open suturing skills of student training video.
     - [STIR](https://github.com/JmeesInc/STIR-Challenge.git): Deformable point tracking on STIR Dataset videos. 2D, and stero 3d tracking.
 - [Leash-Bio BELKA](https://www.kaggle.com/competitions/leash-BELKA): Binding prediction of organic molecules to 3 proteins, BRD4, HSA and sEH. Our team got silver prize with robust performance on both public (8/1950) and private (27/1950). I did CV strategy and some ideas to avoid overfitting. See our [solution report](https://www.kaggle.com/competitions/leash-BELKA/discussion/519191)
-- [HMS](https://www.kaggle.com/competitions/hms-harmful-brain-activity-classification): Detection for dangerous brain wave patterns using EEG data. I did everything other than some part of evaluation.
+- [HMS](https://www.kaggle.com/competitions/hms-harmful-brain-activity-classification): Detection for dangerous brain wave patterns using EEG data. My first medal on kaggle, (245/2767).
 - [6th National Medical Ai Contest in Japan](https://www.kaggle.com/competitions/medical-ai-contest2024/overview): Segmentation on a large organ segmentation dataset, Totalsegmentator. got 4th prize ($100).
