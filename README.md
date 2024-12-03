@@ -17,13 +17,12 @@ Besides the lab project, I enjoy participating in **Kaggle** competitions! I mak
 ### Current Projects
 #### Research: 
 - [scGRNdb](https://github.com/XiaYangLabOrg/scNetworkAtlas.git): scGRNdb is an analysis pipeline for single-cell and spatial-transcriptomics data via GRNs. We are constructing an interactive web server, coming soon!
+- Video Segmentation: We are trying to develop a module for trained Encoder-Decoder segmentation model to handle time-series information, by attaching memory attention module. Aiming to submit to MICCAI25.  
 #### AI competitions
 - [CZII](https://www.kaggle.com/competitions/czii-cryo-et-object-identification): Challenge to detect diverse protein complexes (biological particles with well-defined structures) in 3D cellular image. This long-term project ends at the beginning of Feb.
-- 
 ### Past Projects (24')
 #### Research
 - [SCING](https://github.com/XiaYangLabOrg/SCING): SCING is a machine-learning model predicting GRNs from single-cell and spatial transcriptomics data. I contributed to the validation of the model and customization of the community detection algorithm for our GRNs.
-
 #### AI comeptitions
 - MICCAI Endovis Challenge: Presented top-awarded solutions at **MICCAI2024 at Morocco** in Person. Total Awards - >**$3400**!!!!
     - [SegCol](https://github.com/JmeesInc/SegColChallenge.git): Competing in semantic segmentation for tools and fold edges in colonoscopy videos, and applying active learning on the baseline model provided by the organizers. segmentation - **1st**, active learning - **2nd**. 
