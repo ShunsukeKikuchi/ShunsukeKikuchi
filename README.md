@@ -17,7 +17,7 @@ Besides the lab project, I enjoy participating in **Kaggle** competitions! I mak
 ### Current Projects
 #### Research: 
 - [scGRNdb](https://github.com/XiaYangLabOrg/scNetworkAtlas.git): scGRNdb is an analysis pipeline for single-cell and spatial-transcriptomics data via GRNs. We are constructing an interactive web server, coming soon!
-- Video Segmentation: We are trying to develop a module for trained Encoder-Decoder segmentation model to handle time-series information, by attaching memory attention module. Aiming to submit to MICCAI25.  
+- few-shot adaption of segmentation model: We are trying to develop a module for trained Encoder-Decoder segmentation model to handle time-series information without training by amount of data, by attaching memory attention module. Aiming to submit to MICCAI25.  
 #### AI competitions
 - [CZII](https://www.kaggle.com/competitions/czii-cryo-et-object-identification): Challenge to detect diverse protein complexes (biological particles with well-defined structures) in 3D cellular image. This long-term project ends at the beginning of Feb.
 ### Past Projects (24')
